@@ -18,7 +18,7 @@ We introduce an integrated pipeline and tools for:
 
 Our initial toolset aims to simplify the work of researchers in the fields of computer vision, photogrammetry, and structure from motion (SfM). It lays the foundation for using models in production and in decentralized environments in the future.
 
-**Our ultimate goal is to build a parachain that serves as a global-scale visual search engine.** This engine will provide open APIs and data access for AR/XR metaverse builders, creators, advertisers, and end-users.
+**Our ultimate goal is to build a Kusama/Polkadot parachain that serves as a global-scale visual search engine.** This engine will provide open APIs and data access for AR/XR metaverse builders, creators, advertisers, and end-users.
 
 **:information_desk_person: Why is it necessary?** In applications designed for augmented/extended reality (AR/XR), virtual objects are superimposed over the real world. This means that the virtual world must be accurately positioned relative to the real world. To achieve this, the camera must be precisely positioned within the scene. Any inaccuracies or temporal instability may result in unrealistic and "uncanny" renderings.
 
@@ -341,6 +341,11 @@ Our long-term plan is to develop a toolset based on prior development that can b
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?**
+
+We have personal recommendations to apply from:
+
+- Nico Morgan at Parity/Square One
+- Robin Ejsmond-Frey, Growth Manager at Parity Technologies
 
 Additional information:
 
